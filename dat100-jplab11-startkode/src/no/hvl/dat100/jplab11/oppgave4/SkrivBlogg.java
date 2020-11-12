@@ -9,7 +9,7 @@ import no.hvl.dat100.jplab11.oppgave3.*;
 
 public class SkrivBlogg {
 
-	private static String MAPPE = System.getProperty("user.dir") + "/src/no/hvl/dat100/jplab12/tests/";
+	private static String MAPPE = System.getProperty("user.dir") + "/src/no/hvl/dat100/jplab11/tests/";
 
 	public static boolean skriv(Blogg blogg, String filnavn) {
 
